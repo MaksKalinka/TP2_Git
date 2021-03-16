@@ -1,1 +1,3 @@
 Kalinka Maksymilian
+C'est normal que ce fichier ne se situe plus dans le repertoire master 
+car on l'a commit dans mon_fichier
